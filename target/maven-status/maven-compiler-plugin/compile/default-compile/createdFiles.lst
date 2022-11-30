@@ -1,0 +1,6 @@
+com/jvmfuzzing/mutation_by_insert/Main.class
+com/jvmfuzzing/mutation_by_insert/ClassifyVariable.class
+com/jvmfuzzing/mutation_by_insert/MutationbyInsert.class
+com/jvmfuzzing/mutation_by_insert/SelectDB.class
+com/jvmfuzzing/mutation_by_insert/ReadTxt.class
+com/jvmfuzzing/mutation_by_insert/CreateJavaFile.class
